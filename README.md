@@ -17,7 +17,7 @@
   - [C++ Source Code](https://github.com/OrionGlassing/UE5-Online-Multiplayer-Shooter) <i>(More Still in Development)</i>
 - <b>First Person Character Controller with Advanced Movement</b> 🕹️
   - First Person Character Controls
-  - Advanced Movement Modes:
+  - Custom Movement Modes:
     - Sprint
     - Tactical Sprint
     - Slide
