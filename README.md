@@ -14,7 +14,7 @@
       - Client-Server Architecture
       - Client-Side Prediction
       - Lag Compensation
-  - [C++ Source Code](https://github.com/OrionGlassing/UE5-Online-Multiplayer-Shooter) <i>(More Still in Development)</i>
+  - [C++ Source Code](https://github.com/OrionGlassing/UE5-Online-Multiplayer-Shooter) <i>(Still in Development)</i>
 - <b>First Person Character Controller with Advanced Movement</b> 🕹️
   - First Person Character Controls
   - Custom Movement Modes:
@@ -26,7 +26,7 @@
     - Air Strafing & Lurching
     - Grapple Hook
   - Reactive Camera Effects
-  - [C++ Source Code](https://github.com/OrionGlassing/UE5-First-Person-Character-Controller) <i>(More Still in Development)</i>
+  - [C++ Source Code](https://github.com/OrionGlassing/UE5-First-Person-Character-Controller) <i>(Still in Development)</i>
 
 <h2>🌱 More Coming Soon</h2>
 
